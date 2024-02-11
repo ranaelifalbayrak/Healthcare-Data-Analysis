@@ -43,6 +43,9 @@ different patient categories:
 E is a continuous random variable with the following cumulative distribution function:
 𝐹(𝑒; 𝑖, 𝑗) = (𝑒 − 𝑖)^2 − 𝑗 𝑓𝑜𝑟 (𝑖 + sqrt(𝑗)) ≤ 𝑒 ≤ (𝑖 + sqrt(𝑗 + 1))
 It has different parameters for different patient categories:
+
+![E](https://github.com/ranaelifalbayrak/Probability-and-Statistics-Term-Project-for-2022-2023-Spring/assets/116919905/5b34cbd6-1bef-4612-889d-454cd4d56152)
+
 -  Hemoglobin A1c (HbA1c) level (H): Hemoglobin A1c (HbA1c) level is a specific medical
 measurement used to assess long-term blood glucose control in patients with diabetes.
 Patients in higher-risk categories tend to have higher HbA1c values, indicating suboptimal
