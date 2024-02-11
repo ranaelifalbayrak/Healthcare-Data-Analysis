@@ -27,6 +27,10 @@ caloric intake (b), and this categorization helps assess the patient's overall h
 their fitness and dietary habits.
 The categories include "not risky," "risky," and "very risky," and how they are determined is
 shown in the graph below:
+
+![C](https://github.com/ranaelifalbayrak/Probability-and-Statistics-Term-Project-for-2022-2023-Spring/assets/116919905/74dfaf34-543c-458c-9ad5-0c59715ba51e)
+
+
 - Cholesterol level (D): Cholesterol level (mg/dL) measures the amount of cholesterol in the
 patient's body. Higher-risk patients tend to have higher cholesterol levels.
 D is a continuous random variable with a Normal distribution. It has different parameters for
