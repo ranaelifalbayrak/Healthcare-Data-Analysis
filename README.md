@@ -47,23 +47,23 @@ H is a continuous random variable with the following probability density functio
 
 The project implementation is divided into several tasks:
 
-- 1. Generation of Synthetic Patient Data
+- 1. Generation of Synthetic Patient Data:
 Implemented algorithms to generate synthetic patient data for each variable.
 Generated population data for each random variable using its generator function. Plotted histograms and probability mass/density functions (PMF/PDF) for visualization.
-- 2. Sampling and Descriptive Statistics
+- 2. Sampling and Descriptive Statistics:
 Implemented a sampler function to take samples from the population.
 Calculated estimators for population mean and variance without using built-in functions like numpy.mean, numpy.std, or numpy.var.
 Plotted histograms of estimations with indicators for actual population mean and variance.
-- 3. Parameter Estimation
+- 3. Parameter Estimation:
 Estimated distribution parameters using Method of Moments and Method of Maximum Likelihood.
-- 4. Confidence Intervals
+- 4. Confidence Intervals:
 Calculated confidence intervals for the population mean of variable A.
-- 5. Hypothesis Testing
+- 5. Hypothesis Testing:
 Conducted hypothesis testing to determine if the average exercise frequency has increased after a national publicity campaign on physical fitness.
 "After a year-long national publicity campaign on physical fitness, a hospital embarks on a mission to
 determine if the campaign has been effective. For this purpose, they survey 500 randomly selected
 patients and find out that their average exercise frequency is now 1.2. Assuming that the standard
 deviation of exercise frequency has not changed, does this mean that, at a 3% significance level, the
 mean number of times a patient engages in physical exercise each week has increased?"
-- 6. Naive Bayes Classifier
+- 6. Naive Bayes Classifier:
 Applied and evaluated the Naive Bayes classifier for the population.
