@@ -35,6 +35,9 @@ shown in the graph below:
 patient's body. Higher-risk patients tend to have higher cholesterol levels.
 D is a continuous random variable with a Normal distribution. It has different parameters for
 different patient categories:
+
+![D](https://github.com/ranaelifalbayrak/Probability-and-Statistics-Term-Project-for-2022-2023-Spring/assets/116919905/9cfb38e9-05d4-4139-89bb-341cbd23e637)
+
 - Systolic blood pressure (E): Blood pressure indicates the pressure exerted on the arterial walls
 (100mmHg). Higher-risk patients tend to have elevated blood pressure.
 E is a continuous random variable with the following cumulative distribution function:
