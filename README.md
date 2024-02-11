@@ -55,6 +55,9 @@ H is a continuous random variable with the following probability density functio
 𝑓(ℎ) = 𝑙, 1 < ℎ ≤ 2
 𝑓(ℎ) = 0, 𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
 
+![H](https://github.com/ranaelifalbayrak/Probability-and-Statistics-Term-Project-for-2022-2023-Spring/assets/116919905/24b3bc52-a979-4eb5-8bd3-c24ef2728af5)
+
+
 
 ## Implementation  
 
