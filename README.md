@@ -15,9 +15,9 @@ A has infinitely many possible values {0, 1, 2,…} and 𝑃(𝑎) = 0.5^(𝑎+1
 intake may lead to weight gain and potential health risks if not balanced with exercise and a
 healthy diet.
 B is a continuous random variable with the given probability density function:
-- 𝑓(𝑏) = − 0.096𝑏^3 + 0.432𝑏^2 - 0.352𝑏 + 0.08, 𝑥 ≤ 𝑏 ≤ 𝑦
-- 𝑓(𝑏) = (− 2𝑏 + 11)/15, 𝑦 ≤ 𝑏 ≤ 𝑧
-- 𝑓(𝑏) = 0, 𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+𝑓(𝑏) = − 0.096𝑏^3 + 0.432𝑏^2 - 0.352𝑏 + 0.08, 𝑥 ≤ 𝑏 ≤ 𝑦
+𝑓(𝑏) = (− 2𝑏 + 11)/15, 𝑦 ≤ 𝑏 ≤ 𝑧
+𝑓(𝑏) = 0, 𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
 
 -  Patient category (C): The patient category is determined based on exercise frequency (a) and
 caloric intake (b), and this categorization helps assess the patient's overall health risk based on
