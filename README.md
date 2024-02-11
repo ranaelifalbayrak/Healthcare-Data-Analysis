@@ -18,6 +18,8 @@ B is a continuous random variable with the given probability density function:
 𝑓(𝑏) = − 0.096𝑏^3 + 0.432𝑏^2 - 0.352𝑏 + 0.08, 𝑥 ≤ 𝑏 ≤ 𝑦
 𝑓(𝑏) = (− 2𝑏 + 11)/15, 𝑦 ≤ 𝑏 ≤ 𝑧
 𝑓(𝑏) = 0, 𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+![B](https://github.com/ranaelifalbayrak/Probability-and-Statistics-Term-Project-for-2022-2023-Spring/assets/116919905/748ca138-e0b0-40d0-a2e3-a8dc83bbf60a)
+
 
 -  Patient category (C): The patient category is determined based on exercise frequency (a) and
 caloric intake (b), and this categorization helps assess the patient's overall health risk based on
